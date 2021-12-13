@@ -6,7 +6,7 @@ The web app accomplishes the following functions
 
 1) Tracks disease outbreaks around the world
 2) Informs users of travel restrictions in countries they plan on travelling to
-3) Informs users of vaccinations they need to get to trvale to a particular country
+3) Informs users of vaccinations they need to get to travel to a particular country
 4) Allows them to store their vaccination record
 5) Allows users to book flight tickets
 
