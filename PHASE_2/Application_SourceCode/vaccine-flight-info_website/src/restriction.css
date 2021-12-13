@@ -1,0 +1,16 @@
+.restriction{
+    width: 100%;
+	position: relative;
+    box-sizing: border-box;
+    flex-flow: column;
+	margin: 0 auto;
+    padding: 1% 10%;
+}
+
+.res-title{
+    padding-top: 40px;
+}
+
+.card-title {
+    text-transform: capitalize;
+}

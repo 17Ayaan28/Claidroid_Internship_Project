@@ -1,0 +1,929 @@
+{
+    "algeria": {
+        "name": "algeria",
+        "region": "africa"
+    },
+    "angola": {
+        "name": "angola",
+        "region": "africa"
+    },
+    "benin": {
+        "name": "benin",
+        "region": "africa"
+    },
+    "botswana": {
+        "name": " botswana",
+        "region": "africa"
+    },
+    "burkina faso": {
+        "name": "burikina-faso",
+        "region": "africa"
+    },
+    "burundi": {
+        "name": "brundi",
+        "region": "africa"
+    },
+    "cameroon": {
+        "name": "cameroon",
+        "region": "africa"
+    },
+    "cabo verde": {
+        "name": "cape-verde",
+        "region": "africa"
+    },
+    "central african republic": {
+        "name": "central-african-republic",
+        "region": "africa"
+    },
+    "chad": {
+        "name": "chad",
+        "region": "africa"
+    },
+    "comoros": {
+        "name": "comoros",
+        "region": "africa"
+    },
+    "republic of congo": {
+        "name": "congo-brazzaville",
+        "region": "africa"
+    },
+    "djibouti": {
+        "name": "djibouti",
+        "region": "africa"
+    },
+    "egypt": {
+        "name": "egypt",
+        "region": "africa"
+    },
+    "guinea": {
+        "name": "guinea",
+        "region": "africa"
+    },
+    "eritrea": {
+        "name": "eritrea",
+        "region": "africa"
+    },
+    "ethiopia": {
+        "name": "ethiopia",
+        "region": "africa"
+    },
+    "guinea-bissau": {
+        "name": "guinea-bissau",
+        "region": "africa"
+    },
+    "kenya": {
+        "name": "kenya",
+        "region": "africa"
+    },
+    "lesotho": {
+        "name": "lesotho",
+        "region": "africa"
+    },
+    "liberia": {
+        "name": "liberia",
+        "region": "africa"
+    },
+    "libya": {
+        "name": "gabon",
+        "region": "africa"
+    },
+    "gabon": {
+        "name": "libya",
+        "region": "africa"
+    },
+    "madagascar": {
+        "name": "madagascar",
+        "region": "africa"
+    },
+    "malawi": {
+        "name": "malawi",
+        "region": "africa"
+    },
+    "mali": {
+        "name": "mali",
+        "region": "africa"
+    },
+    "mauritania": {
+        "name": "mauritania",
+        "region": "africa"
+    },
+    "mayotte": {
+        "name": "mayotte",
+        "region": "africa"
+    },
+    "morocco": {
+        "name": "morocco",
+        "region": "africa"
+    },
+    "namibia": {
+        "name": "namibia",
+        "region": "africa"
+    },
+    "niger": {
+        "name": "niger",
+        "region": "africa"
+    },
+    "reunion": {
+        "name": "réunion",
+        "region": "africa"
+    },
+    "rwanda": {
+        "name": "rwanda",
+        "region": "africa"
+    },
+    "saint helena, ascension and tristan da cunha": {
+        "name": "saint-helena",
+        "region": "africa"
+    },
+    "sao tome and principe": {
+        "name": "sao-tome-and-principe",
+        "region": "africa"
+    },
+    "senegal": {
+        "name": "senegal",
+        "region": "africa"
+    },
+    "seychelles": {
+        "name": "seychelles",
+        "region": "africa"
+    },
+    "sierra leone": {
+        "name": "sierra-leone",
+        "region": "africa"
+    },
+    "somalia": {
+        "name": "somalia",
+        "region": "africa"
+    },
+    "south africa": {
+        "name": "south-africa",
+        "region": "africa"
+    },
+    "south sudan": {
+        "name": "south-sudan",
+        "region": "africa"
+    },
+    "sudan": {
+        "name": "sudan",
+        "region": "africa"
+    },
+    "swaziland": {
+        "name": "swaziland",
+        "region": "africa"
+    },
+    "tanzania, united republic of": {
+        "name": "tanzania",
+        "region": "africa"
+    },
+    "togo": {
+        "name": "togo",
+        "region": "africa"
+    },
+    "tunisia": {
+        "name": "tunisia",
+        "region": "africa"
+    },
+    "uganda": {
+        "name": "uganda",
+        "region": "africa"
+    },
+    "western sahara": {
+        "name": "western-sahara",
+        "region": "africa"
+    },
+    "zambia": {
+        "name": "zambia",
+        "region": "africa"
+    },
+    "zimbabwe": {
+        "name": "zimbabwe",
+        "region": "africa"
+    },
+    "anguilla": {
+        "name": "anguilla",
+        "region": "america"
+    },
+    "antigua and barbuda": {
+        "name": "antigua-and-barbuda",
+        "region": "america"
+    },
+    "argentina": {
+        "name": "argentina",
+        "region": "america"
+    },
+    "aruba": {
+        "name": "aruba",
+        "region": "america"
+    },
+    "bahamas": {
+        "name": "bahamas",
+        "region": "america"
+    },
+    "barbados": {
+        "name": "barbados",
+        "region": "america"
+    },
+    "belize": {
+        "name": "belize",
+        "region": "america"
+    },
+    "bermuda": {
+        "name": "bermuda",
+        "region": "america"
+    },
+    "bolivia, plurinational state of": {
+        "name": "bolivia",
+        "region": "america"
+    },
+    "brazil": {
+        "name": "brazil",
+        "region": "america"
+    },
+    "virgin islands (british)": {
+        "name": "british-virgin-islands",
+        "region": "america"
+    },
+    "canada": {
+        "name": "canada",
+        "region": "america"
+    },
+    "cayman islands": {
+        "name": "cayman-islands",
+        "region": "america"
+    },
+    "chile": {
+        "name": "chile",
+        "region": "america"
+    },
+    "colombia": {
+        "name": "colombia",
+        "region": "america"
+    },
+    "costa rica": {
+        "name": "costa-rica",
+        "region": "america"
+    },
+    "cuba": {
+        "name": "cuba",
+        "region": "america"
+    },
+    "dominica": {
+        "name": "dominica",
+        "region": "america"
+    },
+    "dominican republic": {
+        "name": "dominican-republic",
+        "region": "america"
+    },
+    "el salvador": {
+        "name": "el-salvador",
+        "region": "america"
+    },
+    "falkland islands": {
+        "name": "falkland-islands-malvinas",
+        "region": "america"
+    },
+    "french guiana": {
+        "name": "french-guiana",
+        "region": "america"
+    },
+    "greenland": {
+        "name": "greenland",
+        "region": "america"
+    },
+    "grenada": {
+        "name": "grenada",
+        "region": "america"
+    },
+    "guadeloupe": {
+        "name": "guadeloupe",
+        "region": "america"
+    },
+    "guatemala": {
+        "name": "guatemala",
+        "region": "america"
+    },
+    "guyana": {
+        "name": "guyana",
+        "region": "america"
+    },
+    "haiti": {
+        "name": "haiti",
+        "region": "america"
+    },
+    "honduras": {
+        "name": "honduras",
+        "region": "america"
+    },
+    "jamaica": {
+        "name": "jamaica",
+        "region": "america"
+    },
+    "martinique": {
+        "name": "martinique",
+        "region": "america"
+    },
+    "mexico": {
+        "name": "mexico",
+        "region": "america"
+    },
+    "montserrat": {
+        "name": "montserrat",
+        "region": "america"
+    },
+    "nicaragua": {
+        "name": "nicaragua",
+        "region": "america"
+    },"panama": {
+        "name": "panama",
+        "region": "america"
+    },"paraguay": {
+        "name": "paraguay",
+        "region": "america"
+    },"peru": {
+        "name": "peru",
+        "region": "america"
+    },"puerto rico": {
+        "name": "puerto-rico",
+        "region": "america"
+    },"saint kitts and nevis": {
+        "name": "saint-kitts-and-nevis",
+        "region": "america"
+    },"saint lucia": {
+        "name": "saint-lucia",
+        "region": "america"
+    },"saint pierre and miquelon": {
+        "name": "saint-pierre-and-miquelon",
+        "region": "america"
+    },"saint barthélemy": {
+        "name": "saint-barthélemy",
+        "region": "america"
+    },
+    "saint martin": {
+        "name": "saint-martin-french-part",
+        "region": "america"
+    },
+    "suriname": {
+        "name": "suriname",
+        "region": "america"
+    },
+    "trinidad and tobago": {
+        "name": "trinidad-and-tobago",
+        "region": "america"
+    },
+    "turks and caicos islands": {
+        "name": "turks-and-caicos-islands",
+        "region": "america"
+    },
+    "united states": {
+        "name": "united-states",
+        "region": "america"
+    },
+    "uruguay": {
+        "name": "uruguay",
+        "region": "america"
+    },
+    "united states minor outlying islands": {
+        "name": "us-minor-outlying-islands",
+        "region": "america"
+    },
+    "venezuela, bolivarian republic of": {
+        "name": "venezuela",
+        "region": "america"
+    },
+    "virgin islands (us)": {
+        "name": "virgin-islands",
+        "region": "america"
+    },
+    "antarctica": {
+        "name": "antarctica",
+        "region": "antarctica"
+    },
+    "bouvet island": {
+        "name": "bouvet-island",
+        "region": "antarctica"
+    },
+    "french southern territories": {
+        "name": "french-southern-territories",
+        "region": "antarctica"
+    },
+    "heard island and mcDonald islands": {
+        "name": "heard-and-mcdonald-islands",
+        "region": "antarctica"
+    },
+    "south georgia and the south sandwich islands": {
+        "name": "south-georgia-and-the-south-sandwich-islands",
+        "region": "antarctica"
+    },
+    "bahrain": {
+        "name": "bahrain",
+        "region": "asia"
+    },
+    "bhutan": {
+        "name": "bhutan",
+        "region": "asia"
+    },
+    "british indian ocean territory": {
+        "name": "british-indian-ocean-territory",
+        "region": "asia"
+    },
+    "brunei darussalam": {
+        "name": "brunei",
+        "region": "asia"
+    },
+    "cambodia": {
+        "name": "cambodia",
+        "region": "asia"
+    },
+    "china": {
+        "name": "china",
+        "region": "asia"
+    },
+    "christmas Island": {
+        "name": "christmas-island",
+        "region": "asia"
+    },
+    "hong kong": {
+        "name": "hong-kong-sar-china",
+        "region": "asia"
+    },
+    "india": {
+        "name": "india",
+        "region": "asia"
+    },
+    "iran, islamic republic of": {
+        "name": "iran",
+        "region": "asia"
+    },
+
+    "iraq": {
+        "name": "irqa",
+        "region": "asia"
+    },
+    "israel": {
+        "name": "israel",
+        "region": "asia"
+    },
+    "japan": {
+        "name": "japan",
+        "region": "asia"
+    },
+    "jordan": {
+        "name": "jordan",
+        "region": "asia"
+    },
+    "kazakhstan": {
+        "name": "kazakhstan",
+        "region": "asia"
+    },
+    "kuwait": {
+        "name": "kuwait",
+        "region": "asia"
+    },
+    "kyrgyzstan": {
+        "name": "kyrgyzstan",
+        "region": "asia"
+    },
+    "lao people's democratic republic": {
+        "name": "laos",
+        "region": "asia"
+    },
+    "lebanon": {
+        "name": "lebanon",
+        "region": "asia"
+    },
+    "macao": {
+        "name": "macao-sar-china",
+        "region": "asia"
+    },
+    "maldives": {
+        "name": "maldives",
+        "region": "asia"
+    },
+    "mongolia": {
+        "name": "mongolia",
+        "region": "asia"
+    },
+    "myanmar": {
+        "name": "myanmar",
+        "region": "asia"
+    },
+    "nepal": {
+        "name": "nepal",
+        "region": "asia"
+    },
+    "korea, democratic people's republic of": {
+        "name": "korea-north",
+        "region": "asia"
+    },
+    "oman": {
+        "name": "oman",
+        "region": "asia"
+    },
+    "pakistan": {
+        "name": "pakistan",
+        "region": "asia"
+    },
+    "palestinian territory, occupied": {
+        "name": "palestine",
+        "region": "asia"
+    },
+    "korea, republic of": {
+        "name": "korea-south",
+        "region": "asia"
+    },
+    "sri lanka": {
+        "name": "sri-lanka",
+        "region": "asia"
+    },
+    "syrian arab republic": {
+        "name": "syria",
+        "region": "asia"
+    },
+    "taiwan": {
+        "name": "taiwan",
+        "region": "asia"
+    },
+    "tajikistan": {
+        "name": "tajikistan",
+        "region": "asia"
+    },
+    "timor-leste, democratic republic of": {
+        "name": "timor-leste",
+        "region": "asia"
+    },
+    "turkmenistan": {
+        "name": "turkmenistan",
+        "region": "asia"
+    },
+    "uzbekistan": {
+        "name": "uzbekistan",
+        "region": "asia"
+    },
+    "yemen": {
+        "name": "yemen",
+        "region": "asia"
+    },
+
+
+    "qatar": {
+        "name": "qatar",
+        "region": "middle-east"
+    },
+    "saudi arabia": {
+        "name": "saudi-arabia",
+        "region": "middle-east"
+    },
+    "turkey": {
+        "name": "turkey",
+        "region": "middle-east"
+    },
+    "united arab emirates": {
+        "name": "united-arab-emirates",
+        "region": "middle-east"
+    },
+
+    "indonesia": {
+        "name": "indonesia",
+        "region": "sea"
+    },
+    "malaysia": {
+        "name": "malaysia",
+        "region": "sea"
+    },
+    "philippines": {
+        "name": "philippines",
+        "region": "sea"
+    },
+    "singapore": {
+        "name": "singapore",
+        "region": "sea"
+    },
+    "thailand": {
+        "name": "thailand",
+        "region": "sea"
+    },
+    "viet nam": {
+        "name": "vietnam",
+        "region": "sea"
+    },
+    "albania": {
+        "name": "albania",
+        "region": "europe"
+    },
+    "andorra": {
+        "name": "andorra",
+        "region": "europe"
+    },
+    "armenia": {
+        "name": "armenia",
+        "region": "europe"
+    },
+    "austria": {
+        "name": "austria",
+        "region": "europe"
+    },
+    "azerbaijan": {
+        "name": "azerbaijan",
+        "region": "europe"
+    },
+    "belarus": {
+        "name": "belarus",
+        "region": "europe"
+    },
+    "belgium": {
+        "name": "belgium",
+        "region": "europe"
+    },
+    "bosnia & herzegovina": {
+        "name": "bosnia-and-herzegovina",
+        "region": "europe"
+    },
+    "bulgaria": {
+        "name": "bulgaria",
+        "region": "europe"
+    },
+    "croatia": {
+        "name": "croatia",
+        "region": "europe"
+    },
+    "cyprus": {
+        "name": "cyprus",
+        "region": "europe"
+    },
+    "czech republic": {
+        "name": "czech-republic",
+        "region": "europe"
+    },
+    "denmark": {
+        "name": "denmark",
+        "region": "europe"
+    },
+    "estonia": {
+        "name": "estonia",
+        "region": "europe"
+    },
+    "faroe islands": {
+        "name": "faroe-islands",
+        "region": "europe"
+    },
+    "france": {
+        "name": "france",
+        "region": "europe"
+    },
+    "georgia": {
+        "name": "georgia",
+        "region": "europe"
+    },
+    "germany": {
+        "name": "germany",
+        "region": "europe"
+    },
+    "gibraltar": {
+        "name": "gibraltar",
+        "region": "europe"
+    },
+    "greece": {
+        "name": "greece",
+        "region": "europe"
+    },
+    "guernsey": {
+        "name": "guernsey",
+        "region": "europe"
+    },
+    "hungary": {
+        "name": "hungary",
+        "region": "europe"
+    },
+    "iceland": {
+        "name": "iceland",
+        "region": "europe"
+    },
+    "ireland": {
+        "name": "ireland",
+        "region": "europe"
+    },
+    "isle of man": {
+        "name": "isle-of-man",
+        "region": "europe"
+    },
+    "italy": {
+        "name": "italy",
+        "region": "europe"
+    },
+    "jersey": {
+        "name": "jersey",
+        "region": "europe"
+    },
+    "lativa": {
+        "name": "lativa",
+        "region": "europe"
+    },
+    "liechtenstein": {
+        "name": "liechtenstein",
+        "region": "europe"
+    },
+    "lithuania": {
+        "name": "lithuania",
+        "region": "europe"
+    },
+    "luxembourg": {
+        "name": "luxembourg",
+        "region": "europe"
+    },
+    "malta": {
+        "name": "malta",
+        "region": "europe"
+    },
+    "moldova": {
+        "name": "moldova",
+        "region": "europe"
+    },
+    "monaco": {
+        "name": "monaco",
+        "region": "europe"
+    },
+    "montenegro": {
+        "name": "montenegro",
+        "region": "europe"
+    },
+    "netherlands": {
+        "name": "netherlands",
+        "region": "europe"
+    },
+    "macedonia, the former yugoslav republic of": {
+        "name": "macedonia",
+        "region": "europe"
+    },
+    "norway": {
+        "name": "norway",
+        "region": "europe"
+    },
+    "poland": {
+        "name": "poland",
+        "region": "europe"
+    },
+    "portugal": {
+        "name": "portugal",
+        "region": "europe"
+    },
+    "romania": {
+        "name": "romania",
+        "region": "europe"
+    },
+    "russian federation": {
+        "name": "russia",
+        "region": "europe"
+    },
+    "san marino": {
+        "name": "san-marino",
+        "region": "europe"
+    },
+
+    "serbia": {
+        "name": "serbia",
+        "region": "europe"
+    },
+    "slovakia": {
+        "name": "slovakia",
+        "region": "europe"
+    },
+    "slovania": {
+        "name": "slovania",
+        "region": "europe"
+    },
+    "spain": {
+        "name": "spain",
+        "region": "europe"
+    },
+    "svalbard and jan mayen": {
+        "name": "svalbard-and-jan-mayen-islands",
+        "region": "europe"
+    },
+    "swenden": {
+        "name": "swenden",
+        "region": "europe"
+    },
+    "switzerland": {
+        "name": "switzerland",
+        "region": "europe"
+    },
+    "ukraine": {
+        "name": "ukraine",
+        "region": "europe"
+    },
+    "united kingdom": {
+        "name": "united-kingdom",
+        "region": "europe"
+    },
+    "vatican city state": {
+        "name": "holy-see-vatican-city-state",
+        "region": "europe"
+    },
+
+    "american samoa": {
+        "name": "american-samoa",
+        "region": "oceania"
+    },
+
+    "australia": {
+        "name": "austrslia",
+        "region": "europe"
+    },
+    "cocos (keeling) islands": {
+        "name": "cocos-keeling-islands",
+        "region": "europe"
+    },
+    "cook islands": {
+        "name": "cook-islands",
+        "region": "europe"
+    },
+    "fiji": {
+        "name": "fiji",
+        "region": "europe"
+    },
+    "french polynesia": {
+        "name": "french-polynesia",
+        "region": "europe"
+    },
+    "guam": {
+        "name": "guam",
+        "region": "europe"
+    },
+    "kiribati": {
+        "name": "kiribati",
+        "region": "europe"
+    },
+    "marshall islands": {
+        "name": "marshall-islands",
+        "region": "europe"
+    },
+    "micronesia, federated states of": {
+        "name": "micronesia",
+        "region": "europe"
+    },
+    "nauru": {
+        "name": "nauru",
+        "region": "europe"
+    },
+    "new caledonia": {
+        "name": "new-caledonia",
+        "region": "europe"
+    },
+    "cew zealand": {
+        "name": "new-zealand",
+        "region": "europe"
+    },
+    "niue": {
+        "name": "niue",
+        "region": "europe"
+    },
+    "norfolk island": {
+        "name": "norfolk-island",
+        "region": "europe"
+    },
+    "northern mariana islands": {
+        "name": "northern-mariana-islands",
+        "region": "europe"
+    },
+    "palau": {
+        "name": "palau",
+        "region": "europe"
+    },
+    "papua new guinea": {
+        "name": "papua-new-guinea",
+        "region": "europe"
+    },
+    "pitcairn": {
+        "name": "pitcairn",
+        "region": "europe"
+    },
+    "samoa": {
+        "name": "samoa",
+        "region": "europe"
+    },
+    "solomon islands": {
+        "name": "solomon-islands",
+        "region": "europe"
+    },
+    "tokelau": {
+        "name": "tokelau",
+        "region": "europe"
+    },
+    "tonga": {
+        "name": "tonga",
+        "region": "europe"
+    },
+    "tuvalu": {
+        "name": "tuvalu",
+        "region": "europe"
+    },
+    "vanuatu": {
+        "name": "vanuatu",
+        "region": "europe"
+    },
+    "wallis and futuna": {
+        "name": "wallis-and-futuna-islands",
+        "region": "europe"
+    }
+}
